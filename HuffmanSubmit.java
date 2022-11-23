@@ -1,6 +1,3 @@
-//Name: Lishan Gao
-//NetID: lgao14
-//I also asked for some help from the CETL tutor for this project: The tutor's name is Zhiyu (Oliver) Lei 
 /*This is the HuffmanSubmit class that doing the decode and encode methods.
  * In the encode method, I created freqFile to store the huffmancode and frequency. Then, I created huffman tree and huffman
  * table. After going through the table, I can write out the output file. 
