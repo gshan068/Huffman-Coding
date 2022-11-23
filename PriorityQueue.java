@@ -1,5 +1,3 @@
-//Name: Lishan Gao
-//NetID: lgao14
 // This is the class for priority queue, which I will used in the HuffmanSubmit class.
 
 class PriorityQueue<E extends Comparable<E>> {
